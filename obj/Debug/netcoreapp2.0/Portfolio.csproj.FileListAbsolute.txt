@@ -1,0 +1,10 @@
+/Users/eugenebenitez/Desktop/C_Sharp/ASP/Portfolio/bin/Debug/netcoreapp2.0/Portfolio.deps.json
+/Users/eugenebenitez/Desktop/C_Sharp/ASP/Portfolio/bin/Debug/netcoreapp2.0/Portfolio.runtimeconfig.json
+/Users/eugenebenitez/Desktop/C_Sharp/ASP/Portfolio/bin/Debug/netcoreapp2.0/Portfolio.runtimeconfig.dev.json
+/Users/eugenebenitez/Desktop/C_Sharp/ASP/Portfolio/bin/Debug/netcoreapp2.0/Portfolio.dll
+/Users/eugenebenitez/Desktop/C_Sharp/ASP/Portfolio/bin/Debug/netcoreapp2.0/Portfolio.pdb
+/Users/eugenebenitez/Desktop/C_Sharp/ASP/Portfolio/obj/Debug/netcoreapp2.0/Portfolio.csproj.CoreCompileInputs.cache
+/Users/eugenebenitez/Desktop/C_Sharp/ASP/Portfolio/obj/Debug/netcoreapp2.0/Portfolio.AssemblyInfoInputs.cache
+/Users/eugenebenitez/Desktop/C_Sharp/ASP/Portfolio/obj/Debug/netcoreapp2.0/Portfolio.AssemblyInfo.cs
+/Users/eugenebenitez/Desktop/C_Sharp/ASP/Portfolio/obj/Debug/netcoreapp2.0/Portfolio.dll
+/Users/eugenebenitez/Desktop/C_Sharp/ASP/Portfolio/obj/Debug/netcoreapp2.0/Portfolio.pdb

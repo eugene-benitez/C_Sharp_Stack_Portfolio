@@ -1,0 +1,64 @@
+body {
+    background-color: #a6e3e9;
+}
+
+.wrapper {
+    width: 100%;
+    max-width: auto;
+    height: 100%;
+    max-height: auto;
+    position: absolute;
+    margin: 0 auto;
+}
+
+.profile {
+    display: inline-block;
+    position: relative;
+    border: 1px black solid;
+    height: 1000px;
+    padding: 60px;
+}
+
+.container {
+    width: 95%;
+    height: 1000px;
+    margin: auto;
+    padding: 10px;
+}
+
+.one {
+    width: 50%;
+    height: 1000px;
+    float: left;
+    vertical-align: top;
+}
+
+.two {
+    margin-left: 50%;
+    width: 50%;
+    height: 1000px;
+    text-align: justify;
+    vertical-align: middle;
+    position: relative;
+    bottom: 20px;
+}
+
+div.two>h2 {
+    position: relative;
+    top: 200px;
+}
+
+div.one>img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    position: relative;
+    top: 200px
+}
+
+div.one>span {
+    text-align: center;
+    position: relative;
+    top: 250px;
+    font-size: 1.5em;
+}
